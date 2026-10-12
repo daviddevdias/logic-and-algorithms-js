@@ -2,7 +2,7 @@
 
 Exercícios de programação executados no terminal com Node.js: variáveis, condicionais, repetição e pequenos programas com entrada de dados.
 
-## Executar
+## 🚀 Executar
 
 Requisito: Node.js e npm.
 
@@ -15,7 +15,7 @@ node aula3.js
 
 Para outro exercício, substitua `aula3.js` pelo nome do arquivo desejado. Alguns scripts usam `prompt-sync` para solicitar informações no terminal.
 
-## Estrutura
+## 📁 Estrutura
 
 - `aula*.js`: exemplos das aulas.
 - `trabalho*.js`: exercícios práticos.
@@ -29,6 +29,6 @@ Repositório de estudo com versões intermediárias. Não existe uma aplicação
 
 A pasta `node_modules` já está versionada no histórico. As dependências devem ser instaladas com npm; o `.gitignore` evita adicionar novos arquivos dessa pasta, mas não remove arquivos já rastreados.
 
-## Próximos passos
+## 📌 Próximos passos
 
 Organizar os exercícios por tema, corrigir entradas e saídas dos programas e remover dependências geradas do controle de versão.
